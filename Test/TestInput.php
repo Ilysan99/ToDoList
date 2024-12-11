@@ -2,8 +2,8 @@
 
 require_once "../Helper/Input.php";
 
-$name = input("Name");
+$name = input("Mas IL");
 echo "Hello $name" . PHP_EOL;
 
-$channel = input("Channel");
+$channel = input("California");
 echo $channel . PHP_EOL;
