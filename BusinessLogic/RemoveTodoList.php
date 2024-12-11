@@ -12,4 +12,6 @@ function removeTodoList(int $number): bool {
     }
 
     unset($todoList[sizeof($todoList)]);
+
+    return true;
 }
